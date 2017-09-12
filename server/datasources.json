@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "sqlserver": {
+    "host": "localhost",
+    "port": 1433,
+    "url": "",
+    "database": "GoRhino_APP",
+    "password": "sipl@1234",
+    "name": "sqlserver",
+    "user": "SA",
+    "connector": "mssql"
+  }
+}
